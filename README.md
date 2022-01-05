@@ -1,7 +1,9 @@
 # Study of Attacks on Federated Learning Systems
 
 Code for the ESORICS 2020 paper: Data Poisoning Attacks Against Federated Learning Systems
-My Report and Presentation Deck: <https://entuedu-my.sharepoint.com/:f:/g/personal/jthung001_e_ntu_edu_sg/EkRF4M65JSdMpzp7Z5FAIiYBYYlkENVwRgzL0pVcgEKDjQ?email=ASCKYEO%40ntu.edu.sg&e=iVUbswhttps://entuedu-my.sharepoint.com/:f:/g/personal/jthung001_e_ntu_edu_sg/EkRF4M65JSdMpzp7Z5FAIiYBYYlkENVwRgzL0pVcgEKDjQ?email=ASCKYEO%40ntu.edu.sg&e=iVUbsw> 
+
+My Report and Presentation Deck:
+[Final Year Project_Thung Jia Cheng_U1821805J.pdf](https://github.com/michaelTJC96/Label_Flipping_Attack/files/7813202/Final.Year.Project_Thung.Jia.Cheng_U1821805J.pdf)
 
 ## Installation
 
